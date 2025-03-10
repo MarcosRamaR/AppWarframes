@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+        <item
+            android:id="@+id/nav_dashboard"
+            android:title="Dashboard" />
+
+        <item
+            android:id="@+id/nav_favorites"
+            android:title="Favoritos" />
+        <item
+            android:id="@+id/nav_random"
+            android:title="Random" />
+        <item
+            android:id="@+id/nav_profile"
+            android:title="Perfil" />
+        <item
+            android:id="@+id/nav_logout"
+            android:title="Cerrar Sesión" />
+
+</menu>
