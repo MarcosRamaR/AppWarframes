@@ -12,11 +12,11 @@
 ## Access to the project
 
 
-  <div align="center">
-     If you haven't downloaded the apk, you'll need to have Android Studio installed. 
-     You can also download the apk and try it on any Android device.
+  If you haven't downloaded the APK yet, you'll need to have Android Studio installed.
+  
+  Alternatively, you can download the APK and test it on any Android device.
  
-</div>
+
 
   ## Used Technologies
   
