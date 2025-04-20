@@ -12,7 +12,7 @@
 ## Access to the project
 
 
-  If you haven't downloaded the APK yet, you'll need to have Android Studio installed.
+  If you haven't downloaded the APK yet, you'll need to have Android Studio installed and put your version of google-services.json on app directory.
   
   Alternatively, you can download the APK and test it on any Android device.
  
